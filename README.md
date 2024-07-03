@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: @_luizasalvador or mine linkedin :)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 luizaxis/luizaxis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
